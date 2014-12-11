@@ -1,0 +1,19 @@
+{
+  "name": "grmmr-style-core",
+  "version": "0.0.0",
+  "authors": [
+    "sethjgore <sethjgore@gmail.com>"
+  ],
+  "description": "core style library for grmmr apps",
+  "main": "grmmr-style-core.sass",
+  "license": "MIT",
+  "homepage": "grmmr.co",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
